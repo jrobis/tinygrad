@@ -30,6 +30,7 @@ tinygrad is still alpha software, but we [raised some money](https://geohot.gith
 
 tinygrad can run [LLaMA](/docs/showcase.md#llama) and [Stable Diffusion](/docs/showcase.md#stable-diffusion)!
 
+
 ### Laziness
 
 Try a matmul. See how, despite the style, it is fused into one kernel with the power of laziness.
